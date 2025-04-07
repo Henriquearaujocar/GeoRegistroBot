@@ -1,0 +1,6 @@
+python-telegram-bot[ext]>=20.0 # Usando uma versão mais recente com async/await nativo
+gspread>=5.0
+google-auth-oauthlib>=0.5
+google-auth-httplib2>=0.1
+pytz>=2023.3
+python-dotenv>=1.0.0

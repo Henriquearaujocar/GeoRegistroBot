@@ -1,0 +1,22 @@
+# Arquivo de variáveis de ambiente (Contém segredos!)
+.env
+
+# Arquivo de chave da Conta de Serviço Google (Contém segredos!)
+monitoramento-454519-cdd8b0856848.json
+
+# Arquivo de estado do bot (geralmente não versionado)
+active_shares_state.json
+active_shares_state.json.tmp
+
+# Pasta do ambiente virtual Python
+.venv/
+venv/
+*/.venv/
+*/venv/
+env/
+*/env/
+
+# Arquivos de cache e compilados do Python
+__pycache__/
+*.py[cod]
+*$py.class
